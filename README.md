@@ -28,7 +28,7 @@ Currently, I am focusing on:
 
 ---
 
-## Tech Stack
+## Tech Stack (MERN Stack)
 
 ### Frontend
 
