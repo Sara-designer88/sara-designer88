@@ -44,8 +44,11 @@ Let's connect and create impactful solutions together!
 
 ## 🧰 Other Tools and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=mongoDb,Node.js,express.js,reactgit,reactbootstrap,github,vscode,figma,npm,postman)](https://skillicons.dev)
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,react,bootstrap,git,github,vscode,figma,npm,postman" />
+  </a>
+</p>
 ---
 
 ## Featured Project
