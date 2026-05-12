@@ -17,41 +17,34 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a web development student based in Berlin with a background in software testing. I enjoy building modern web applications and improving my frontend development skills using React and JavaScript.
+I'm an AI web developer with software testing experience passionate about creating efficient, user-friendly, and impactful web solutions. After completing the Ironhack Web Development Bootcamp, I've gained solid experience in both front-end and back-end technologies, ready to tackle real-world challenges as a full-stack developer.
 
-Currently, I am focusing on:
+🌟 Skills & Expertise:
 
-* React development
-* Full-stack web applications
-* API integration
-* Responsive user interfaces
+Frontend: React.js, JavaScript ES6+, HTML5, CSS3
+Backend: Node.js, Express.js, RESTful APIs
+Others: JSON Server, Git, Responsive Design
+
+🎶 Outside of tech, I enjoy Painting 🎨
+
+Let's connect and create impactful solutions together!
 
 ---
 
-## Tech Stack (MERN Stack)
+### Skills in progress
 
-### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React
-* React Bootstrap
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### Backend
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-* Node.js
-* Express.js
-* Local JSON Server
-* mongoDB
 
-### Tools
+## 🧰 Other Tools and Technologies
 
-* Git & GitHub
-* VS Code
-* Figma
-* Postman
-* Database
+[![My Skills](https://skillicons.dev/icons?i=mongoDb,Node.js,express.js,reactgit,reactbootstrap,github,vscode,figma,npm,postman)](https://skillicons.dev)
 
 ---
 
