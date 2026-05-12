@@ -68,6 +68,22 @@ Let's connect and create impactful solutions together!
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 ---
+## 🤖 AI Productivity Tools
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Windsurf-0F172A?style=for-the-badge&logo=codeium&logoColor=white" />
+
+</p>
+---
 
 ## Featured Project
 
