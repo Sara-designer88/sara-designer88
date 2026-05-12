@@ -92,7 +92,7 @@ A full-stack recipe app for browsing and managing recipes.
 🚀 Live: https://cookpal-flame.vercel.app  
 
 **Features:** CRUD recipes, favorites, API search, category filters  
-**Stack:** React, Node.js, Express, React Bootstrap, API
+**Stack:** React, Node.js,Json Server, React Bootstrap, API
 
 ---
 
