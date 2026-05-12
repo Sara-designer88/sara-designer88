@@ -85,31 +85,14 @@ Let's connect and create impactful solutions together!
 </p>
 ---
 
-## Featured Project
+## 🚀 Featured Projects
 
-### CookPal 🍳
+### 🍳 CookPal  
+A full-stack recipe app for browsing and managing recipes.  
+🚀 Live: https://cookpal-flame.vercel.app  
 
-A full-stack recipe management application built with React and a custom local server.
-🚀 Live WebApp: [CookPal](https://cookpal-flame.vercel.app)
-
-### Features
-
-* Browse recipes from an external API
-* Create, edit, and delete custom recipes
-* Save favorite recipes
-* Save Recipes from API 
-* Filter recipes by category and source
-* Search from API 
-* Responsive UI using React Bootstrap
-
-### Technologies Used
-
-* React
-* React Router DOM
-* React Bootstrap
-* Node.js
-* Express
-* External Recipe API
+**Features:** CRUD recipes, favorites, API search, category filters  
+**Stack:** React, Node.js, Express, React Bootstrap, API
 
 ---
 
