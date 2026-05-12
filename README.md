@@ -88,7 +88,7 @@ Let's connect and create impactful solutions together!
 ## 🚀 Featured Projects
 
 ### 🍳 CookPal  
-A full-stack recipe app for browsing and managing recipes.  
+A React-based recipe management application powered by a mock REST API using JSON Server.
 🚀 Live: https://cookpal-flame.vercel.app  
 
 **Features:** CRUD recipes, favorites, API search, category filters  
