@@ -90,7 +90,7 @@ Let's connect and create impactful solutions together!
 ### CookPal 🍳
 
 A full-stack recipe management application built with React and a custom local server.
-[Link to the WebApp](cookpal-flame.vercel.app)
+🚀 Live WebApp: [CookPal](https://cookpal-flame.vercel.app)
 
 ### Features
 
@@ -123,8 +123,8 @@ A full-stack recipe management application built with React and a custom local s
 
 ## Connect With Me
 
-* GitHub: [https://github.com/Sara Faltas]([https://github.com/yourusername](https://github.com/Sara-designer88))
-* LinkedIn: [https://linkedin.com/in/Sara Faltas](www.linkedin.com/in/sara-faltas)
+🌐 GitHub → https://github.com/Sara-designer88  
+💼 LinkedIn → https://www.linkedin.com/in/sara-faltas
 
 Thanks for visiting my profile ⭐
 
