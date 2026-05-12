@@ -41,7 +41,7 @@ Let's connect and create impactful solutions together!
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-
+---
 ## 🧰 Other Tools and Technologies
 
 <p align="left">
@@ -74,7 +74,7 @@ Let's connect and create impactful solutions together!
 
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code_Copilot-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
