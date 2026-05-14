@@ -96,7 +96,7 @@ A React-based recipe management application powered by a mock REST API using JSO
 
 ### 🦖 Dino 2D Game  
 A simple 2D browser game where the player controls a dinosaur and avoids obstacles.  
-🎮 Playable in browser (no installation required) 🚀 Live:https://sara-designer88.github.io/Game-Project-Dino/
+🎮 Playable in browser (no installation required) 🚀 Live:https://sara-faltas.github.io/Game-Project-Dino/
 
 **Features:** Move mechanics, obstacle collision detection, increasing difficulty , Lives
 **Stack:** Vanilla JavaScript, HTML5, CSS3  
